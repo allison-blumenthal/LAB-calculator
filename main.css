@@ -12,18 +12,15 @@ th {
   width: 400px;
  }
 
-td {
- 
-}
-
-.results-screen {
+ .calculator-display {
   background-color: #000000;
   color: #ffffff;
-}
+  text-align: right;
+ }
 
 .grey-button {
-  background-color: #d8d9db;
-}
+    background-color: #d8d9db;
+} 
 
 .function-colors {
   color: #ffffff;
