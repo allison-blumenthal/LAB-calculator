@@ -1,28 +1,25 @@
 body {
   background-color: white;
   color: #000000;
-}
+  }
 
-th {
-  font-family: monospace;
-  text-align: right;
-}
+.container {
+
+ }
 
 .calculator {
   width: 400px;
- }
-
- .calculator-display {
   background-color: #000000;
   color: #ffffff;
-  text-align: right;
  }
 
-.grey-button {
-    background-color: #d8d9db;
-} 
+.calculator-display {
+  padding: 5px 8px;
+  text-align: right;
+  font-family: monospace;
+  font-size: 14px;
+ }
 
-.function-colors {
-  color: #ffffff;
-  background-color: orange;
-}
+.calculator-keys {
+  
+ }
